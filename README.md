@@ -4,8 +4,38 @@
 - 💞️ I love math, literature and software.
 - 📫 Mail;h.kaanturk@hotmail.com
 - 📫 Instagram;kaann_turkk
--  🌱 I’m currently learning html and css.
-<!---
-KaanTurk/KaanTurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning html and css.
+- 
+- My last project was about designing basic web page.
+- # Turk-Et Restaurant Web Page
+
+  I designed a web page for my career planning final homework.
+
+
+
+
+
+
+  ## Features
+
+- *Hover Transition*
+- *Full Screen Mode*
+- *Available on all search engines*
+- *Intelligible Design*
+
+
+  
+  ## Environment Variables
+
+  What you need to have to run this project
+
+
+  `Microsoft Visual Studio Code`
+
+
+
+  
+  ## Developers
+- [@kaann_turkk](https://github.com/KaanTurk) for design and development.
+
+  
